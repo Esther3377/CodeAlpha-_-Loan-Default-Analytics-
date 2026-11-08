@@ -1,0 +1,25 @@
+# TASK 3: DATA VISUALIZATION
+
+## Project
+ESTHER ANALYTICS – Loan Default Intelligence
+
+## Activities performed
+- Transformed analysis results into visualizations.
+- Created loan default distribution charts.
+- Visualized default rates by age group.
+- Compared employment types and credit score groups.
+- Developed education and marital status charts.
+- Built an interactive executive dashboard.
+
+## Dashboard features
+- Four KPI cards.
+- Six visualizations.
+- Four interactive filters.
+- Insight panel.
+- Summary table.
+
+## Tools used
+Python, Plotly, HTML and Google Colab.
+
+## Project outcome
+Developed an interactive dashboard that allows users to explore loan default patterns and compare borrower categories.
