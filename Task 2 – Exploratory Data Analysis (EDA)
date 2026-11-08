@@ -1,0 +1,38 @@
+# TASK 2: EXPLORATORY DATA ANALYSIS
+
+## Project
+ESTHER ANALYTICS – Loan Default Intelligence
+
+## Dataset
+255,347 loan records and 18 original columns.
+
+## Activities performed
+- Examined dataset structure and data types.
+- Checked missing values and duplicates.
+- Analysed loan default distribution.
+- Compared default rates across borrower categories.
+- Identified trends and patterns.
+
+## Key findings
+- Overall default rate: 11.61%.
+- Under 25 age group: 21.03%.
+- Unemployed borrowers: 13.55%.
+- Credit scores below 500: 12.77%.
+
+## Data quality
+- Missing values: 0.
+- Duplicate records: 0.
+- Negative values in checked numerical columns: 0.
+
+The following questions guided the analysis:
+1. What percentage of loans in the dataset resulted in default?
+2. Does the default rate differ across age groups?
+3. How does employment type relate to loan default?
+4. Do borrowers with different credit-score groups have different default rates?
+5. Does education level show differences in loan default?
+6. How does marital status relate to default rates?
+7. Does loan purpose show any variation in default rates?
+8. Do mortgage, dependents and co-signer status show differences in default rates?
+
+## Tools
+Python, Pandas and Google Colab.
